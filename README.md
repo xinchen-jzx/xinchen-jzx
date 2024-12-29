@@ -14,3 +14,7 @@
 <p align="center" style="width: 100%;">
     <img align="center" style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=xinchen-jzx" alt="xinchen-jzx" />
 </p>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/xinchen-jzx/xinchen-jzx/output/github-contribution-grid-snake.svg" alt="xinchen-jzx" />
+</p>
