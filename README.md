@@ -16,5 +16,5 @@
 </p>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/xinchen-jzx/xinchen-jzx/output/github-contribution-grid-snake.svg" alt="xinchen-jzx" />
+    <img align="center" style="width: 100%;" src="https://github.com/xinchen-jzx/xinchen-jzx/blob/output/github-contribution-grid-snake.svg" alt="xinchen-jzx" />
 </p>
