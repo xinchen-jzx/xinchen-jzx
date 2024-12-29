@@ -10,3 +10,7 @@
       <img align="center" style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinchen-jzx&layout=compact&hide=html,jupyter%20notebook,css,javascript"/>
     </span>
 </p>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=xinchen-jzx" alt="xinchen-jzx" />
+</p>
