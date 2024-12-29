@@ -13,7 +13,7 @@
 </div>
 
 - 🔭 <font face="楷书"><font size=4>My name is Jane, an undergraduate student from the National University of Defense Technology.</font></font> 
-- 👀 <font face="楷书"><font size=4>My research interest includes managed runtime, Compiler, MLSys, and Large Language Models (LLM).</font></font>
+- 👀 <font face="楷书"><font size=4>My research interest includes <b>Managed Runtime, Compiler, MLSys, and Large Language Models (LLM)</b>.</font></font>
 - 📫 <font face="楷书"><font size=4>How to reach me: <a href="">zexinjian@gmail.com</a></font></font>
 
 <p align="center" style="width: 100%;">
